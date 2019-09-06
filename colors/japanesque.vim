@@ -9,9 +9,9 @@ if exists('syntax_on')
 endif
 
 " 紫紺
-let s:black      = '#3C2F41'
+let s:black      = '#14071A'
 " 菜の花
-let s:white      = '#F7F1D5'
+let s:white      = '#635c7b'
 " 灰
 let s:dark_gray  = '#828282'
 " 銀鼠
