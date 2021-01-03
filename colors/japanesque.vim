@@ -9,7 +9,7 @@ if exists('syntax_on')
 endif
 
 " 紫紺
-let s:black      = '#14071A'
+let s:black      = '#33042A'
 " 菜の花
 let s:white      = '#635c7b'
 " 灰
